@@ -1,0 +1,159 @@
+  .mains {
+        font-family: 'Ubuntu', sans-serif;
+        background-color: rgba(237, 222, 245, 0.8);
+        /* background-color: #FFFFFF; */
+        max-width: 400px;
+        min-width: 200px;
+        min-height: 350px;
+       max-height: 650px;
+        margin: 7em auto;
+        border-radius: 1.5em;
+        box-shadow: 0px 11px 35px 2px rgba(0, 0, 0, 0.14);
+    }
+    .signs{
+       max-width: 400px;
+        min-width: 200px;
+        min-height: 250px;
+        max-height: 500px;
+        padding-top: 0.8em;
+        /* padding-bottom: 0.8em; */
+        /* color: #8C55AA; */
+        font-family: 'Ubuntu', sans-serif;
+        text-align: center;
+    }
+    .signs h3{
+        
+        color: #693883;
+        padding-bottom: 0.8em;
+        font-weight: bold;
+        /* font-size: 23px; */    
+    }
+     .signs p{
+        color: #744091;
+        padding: 0em 0.8em;
+        font-size: larger;
+     }
+     .submits {
+      cursor: pointer;
+      margin-bottom: 1em;
+        border-radius: 5em;
+        color: #fff;
+        background: linear-gradient(to right, #9C27B0, #E040FB);
+        border: 0;
+        /* padding: 10px 40px; */
+        padding: 40px 10px;
+        font-family: 'Ubuntu', sans-serif;
+        margin-left: 35%;
+        font-size: 0.9em;
+        box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.04);
+    }
+
+    /* .un {
+    width: 76%;
+    color: rgb(60, 29, 145);
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 1px;
+    background: rgba(136, 126, 126, 0.04);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    outline: none;
+    box-sizing: border-box;
+    border: 2px solid rgba(82, 61, 175, 0.28);
+    margin-bottom: 50px;
+    margin-left: 46px;
+    text-align: center;
+    margin-bottom: 27px;
+    font-family: 'Ubuntu', sans-serif;
+    }
+    
+    form.form1 {
+        padding-top: 40px;
+    }
+    
+    .pass {
+            width: 76%;
+    color: rgb(60, 29, 145);
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 1px;
+    background: rgba(136, 126, 126, 0.04);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    outline: none;
+    box-sizing: border-box;
+    border: 2px solid rgba(82, 61, 175, 0.28);
+    margin-bottom: 50px;
+    margin-left: 46px;
+    text-align: center;
+    margin-bottom: 27px;
+    font-family: 'Ubuntu', sans-serif;
+    }
+    
+   
+    .un:focus, .pass:focus {
+        border: 2px solid rgba(82, 61, 175, 0.48) !important; */
+        
+    /* } */
+    
+    
+/* h1{
+  text-align: center;
+}
+
+
+#cardImage {
+  width: 300px;
+  height: 200px;
+} */
+
+/* .Card {
+
+  display: inline-block;
+	max-width: 400px;
+  margin-top: 20px;
+	margin-bottom: 0.5em;
+	margin-right: 10px;
+	background-color: #ddd;
+	border: 1px solid #999;
+	border-radius: 0.2em;
+	padding: 1em;
+
+}
+/* .MainForm { */
+  /* border: 2px solid #999;
+  border-radius: 8px;
+  margin: 10px 15px;
+  padding: 10px 15px; */ 
+  /* position: fixed; */
+  /* align-self: right; */
+  /* display: flex;
+  flex-direction: column;
+  background-color: #ddd; */
+  /* position: fixed; */
+  /* right: 0px; */
+  /* top: 100px; */
+  /* align-items: center;
+  
+  justify-content: center; 
+
+} */
+
+/* #input-form{
+  border-radius: 8px;
+  padding: 5px 10px;
+} */
+
+/* .cardtwo{
+  display: inline-block;
+	max-width: 400px;
+  margin-top: 20px;
+	margin-bottom: 0.5em;
+	margin-right: 10px;
+	background-color: rgb(88, 207, 216);
+	border: 1px solid rgb(73, 135, 230);
+	border-radius: 0.2em;
+	padding: 1em;
+} */

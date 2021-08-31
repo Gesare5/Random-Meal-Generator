@@ -1,0 +1,78 @@
+.divert-to-suggest-meal a {
+	color: #580477;
+	text-align: center;
+  margin-top: 5%;
+}
+
+h1 {
+	color: #580477;
+	text-align: center;
+}
+
+#cardImage {
+  width: 300px;
+  height: 200px;
+}
+
+.Card {
+
+  display: inline-block;
+	max-width: 400px;
+  margin-top: 20px;
+	margin-bottom: 0.5em;
+	margin-right: 10px;
+  margin-left: 5px;
+	/* background: linear-gradient(to bottom right, #cba7da,#eedcf5);  */
+	background: #eedcf5;
+  border: 1px solid #e2baf1;
+	border-radius: 0.6em;
+	padding: 1em;
+  color: #580477;
+}
+  .content{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;  
+}
+.content img{
+  width:100%;
+  height: auto;
+  padding: 10px 15px;
+}
+/* .MainForm {
+  border: 2px solid #999;
+  border-radius: 8px;
+  margin: 10px 15px;
+  padding: 10px 15px;
+  /* position: fixed; */
+  /* align-self: right; */
+  /* display: flex; */
+  /* flex-direction: column; */
+  /* background-color: #ddd; */
+  /* position: fixed; */
+  /* right: 0px; */
+  /* top: 100px; */
+  /* align-items: center; */
+  
+  /* justify-content: center;  */
+
+/* }  */
+
+/* #input-form{
+  border-radius: 8px;
+  padding: 5px 10px;
+} */
+
+/* .cardtwo{
+  display: inline-block;
+	max-width: 400px;
+  margin-top: 20px;
+	margin-bottom: 0.5em;
+	margin-right: 10px;
+	background-color: rgb(88, 207, 216);
+	border: 1px solid rgb(73, 135, 230);
+	border-radius: 0.2em;
+	padding: 1em;
+} */
